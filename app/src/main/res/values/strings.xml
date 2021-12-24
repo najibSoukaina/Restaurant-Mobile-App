@@ -1,0 +1,52 @@
+<resources>
+
+
+    <!-- LOGIN ACTIVITY -->
+    <string name="login_account">Login Account</string>
+    <string name="login_caption">Enter the following information\nso we can identify you.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forgot password ?</string>
+    <string name="login_btn">SIGN IN</string>
+    <string name="login_bottom">Dont have an account ?</string>
+    <string name="register">SIGN UP</string>
+    <string name="my_logo_description">Logo</string>
+
+    <string name="already_have_a_account">Already have a account ?</string>
+
+    <string name="app_name">UNME</string>
+    <string name="login">Login</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="signup"><u>Sign up</u></string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="forget_password_title">Enter the email address\nassociated with your account.</string>
+    <string name="forget_password_caption">We will email you a link to reset\nyour password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="send_verification_code">Send Verification Code</string>
+    <string name="account_login">Account Login</string>
+
+    <!-- BOTTOM MENU -->
+    <string name="home">Home</string>
+    <string name="food">Food</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="area">Area</string>
+    <string name="account">My Account</string>
+    <string name="others"></string>
+    <string name="card">Card</string>
+    <string name="order">Order</string>
+    <string name="contact">Contact Us</string>
+    <string name="aboutUs">About As</string>
+    <string name="feedback">Feedback</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>
